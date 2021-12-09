@@ -1,4 +1,4 @@
-15899
+15905
 68D:\GitHub\betafunda\templates\alpha\node_modules\combined-stream\lib132834899658927550 1
 66D:\GitHub\betafunda\templates\alpha\node_modules\source-map-js\lib132834899788213808 1
 104D:\GitHub\betafunda\templates\alpha\node_modules\@babel\highlight\node_modules\supports-color\browser.js132834899607676784 0
@@ -9,12 +9,12 @@
 69D:\GitHub\betafunda\templates\alpha\node_modules\inflight\inflight.js132834899644185959 0
 71D:\GitHub\betafunda\templates\alpha\node_modules\is-regex\.eslintignore132834899595663632 0
 66D:\GitHub\betafunda\templates\alpha\node_modules\html-tags\license132834899624457208 0
-48D:\GitHub\betafunda\templates\alpha\package.json132835165093603581 0
+48D:\GitHub\betafunda\templates\alpha\package.json132835212586492256 0
 73D:\GitHub\betafunda\templates\alpha\node_modules\fast-glob\out\index.d.ts132834899902718500 0
 91D:\GitHub\betafunda\templates\alpha\node_modules\svgo\plugins\removeUselessStrokeAndFill.js132834899944424713 0
 72D:\GitHub\betafunda\templates\alpha\node_modules\htmlnano\lib\helpers.js132834899779368865 0
 71D:\GitHub\betafunda\templates\alpha\node_modules\w3c-hr-time\LICENSE.md132834899596533133 0
-40D:\GitHub\betafunda\templates\alpha\dist132835205863866562 1
+40D:\GitHub\betafunda\templates\alpha\dist132835212882593376 1
 79D:\GitHub\betafunda\templates\alpha\node_modules\timers-browserify\CHANGELOG.md132834899626076295 0
 69D:\GitHub\betafunda\templates\alpha\node_modules\saxes\lib\saxes.d.ts132834899681764676 0
 67D:\GitHub\betafunda\templates\alpha\node_modules\lodash\isSymbol.js132834900073451125 0
@@ -66,7 +66,7 @@
 86D:\GitHub\betafunda\templates\alpha\node_modules\core-js\features\typed-array\slice.js132834900140183066 0
 81D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2020\IsExtensible.js132834900061098171 0
 82D:\GitHub\betafunda\templates\alpha\node_modules\core-js\features\string\substr.js132834900141952053 0
-42D:\GitHub\betafunda\templates\alpha\src\js132834893981665618 1
+42D:\GitHub\betafunda\templates\alpha\src\js132835208483932239 1
 67D:\GitHub\betafunda\templates\alpha\node_modules\webidl-conversions132834899632602570 1
 61D:\GitHub\betafunda\templates\alpha\node_modules\wcwidth\docs132834899691309081 1
 65D:\GitHub\betafunda\templates\alpha\node_modules\semver\README.md132834899721361942 0
@@ -86,7 +86,7 @@
 59D:\GitHub\betafunda\templates\alpha\node_modules\ansi-regex132834899655469519 1
 76D:\GitHub\betafunda\templates\alpha\node_modules\@babel\types\lib\converters132834899929043488 1
 70D:\GitHub\betafunda\templates\alpha\node_modules\randombytes\README.md132834899691638901 0
-50D:\GitHub\betafunda\templates\alpha\src\index.html132835196559013661 0
+50D:\GitHub\betafunda\templates\alpha\src\index.html132835208587503111 0
 81D:\GitHub\betafunda\templates\alpha\node_modules\core-js\features\map\map-keys.js132834900133856669 0
 52D:\GitHub\betafunda\templates\alpha\src\js\colors.js132835175474892815 0
 72D:\GitHub\betafunda\templates\alpha\node_modules\lodash\_baseToString.js132834899960445578 0
@@ -298,6 +298,13 @@
 117D:\GitHub\betafunda\templates\alpha\node_modules\postcss-modules-extract-imports\node_modules\supports-color\index.js132834899627635399 0
 63D:\GitHub\betafunda\templates\alpha\node_modules\prelude-ls\lib132834899746107825 1
 61D:\GitHub\betafunda\templates\alpha\src\scss\base\_index.scss132835197438322144 0
+64D:\GitHub\betafunda\templates\alpha\node_modules\node-forge\dist132834899952390168 1
+51D:\GitHub\betafunda\templates\alpha\src\js\index.js132835208831054200 0
+67D:\GitHub\betafunda\templates\alpha\node_modules\core-js\stage\0.js132834899610894949 0
+96D:\GitHub\betafunda\templates\alpha\node_modules\postcss-modules\build\css-loader-core\loader.js132834899689859905 0
+89D:\GitHub\betafunda\templates\alpha\node_modules\uri-js\dist\esnext\schemes\mailto.js.map132834899867448620 0
+76D:\GitHub\betafunda\templates\alpha\node_modules\core-js\es\instance\flat.js132834900105153038 0
+75D:\GitHub\betafunda\templates\alpha\node_modules\v8-compile-cache\README.md132834899666783074 0
 88D:\GitHub\betafunda\templates\alpha\node_modules\@babel\core\lib\config\files\plugins.js132834899791312043 0
 66D:\GitHub\betafunda\templates\alpha\node_modules\pbkdf2\browser.js132834899629414388 0
 62D:\GitHub\betafunda\templates\alpha\node_modules\pn\test\cp.js132834899912273050 0
@@ -315,27 +322,6 @@
 69D:\GitHub\betafunda\templates\alpha\node_modules\tweetnacl\AUTHORS.md132834899788143849 0
 86D:\GitHub\betafunda\templates\alpha\node_modules\core-js\es\string\virtual\iterator.js132834900131118233 0
 66D:\GitHub\betafunda\templates\alpha\src\scss\abstracts\_index.scss132835197334401412 0
-89D:\GitHub\betafunda\templates\alpha\node_modules\@babel\generator\lib\node\parentheses.js132834899821754689 0
-81D:\GitHub\betafunda\templates\alpha\node_modules\svgo\plugins\removeEmptyAttrs.js132834899938687985 0
-99D:\GitHub\betafunda\templates\alpha\node_modules\postcss-modules-extract-imports\node_modules\chalk132834899690539523 1
-73D:\GitHub\betafunda\templates\alpha\node_modules\util-deprecate\README.md132834899596463175 0
-60D:\GitHub\betafunda\templates\alpha\node_modules\assert-plus132834899654989791 1
-56D:\GitHub\betafunda\templates\alpha\node_modules\deep-is132834899734714324 1
-81D:\GitHub\betafunda\templates\alpha\node_modules\msgpackr\tests\sample-large.json132834899894603128 0
-54D:\GitHub\betafunda\templates\alpha\node_modules\acorn132834899860572541 1
-73D:\GitHub\betafunda\templates\alpha\node_modules\har-schema\lib\page.json132834899796818914 0
-77D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2021\ToBigInt.js132834900122902918 0
-87D:\GitHub\betafunda\templates\alpha\node_modules\core-js\features\typed-array\values.js132834900155024600 0
-84D:\GitHub\betafunda\templates\alpha\node_modules\which-boxed-primitive\.editorconfig132834899570927744 0
-68D:\GitHub\betafunda\templates\alpha\node_modules\ripemd160\README.md132834899660276778 0
-59D:\GitHub\betafunda\templates\alpha\node_modules\extsprintf132834899723130941 1
-85D:\GitHub\betafunda\templates\alpha\node_modules\stylehacks\dist\plugins\bodyEmpty.js132834899614053150 0
-70D:\GitHub\betafunda\templates\alpha\node_modules\elliptic\lib\elliptic132834899819675866 1
-57D:\GitHub\betafunda\templates\alpha\node_modules\@nodelib132834899525553620 1
-103D:\GitHub\betafunda\templates\alpha\node_modules\core-js\features\object\get-own-property-descriptor.js132834900113228432 0
-74D:\GitHub\betafunda\templates\alpha\node_modules\node-forge\lib\ed25519.js132834899789613016 0
-50D:\GitHub\betafunda\templates\alpha\src\js\main.js132835184676004876 0
-71D:\GitHub\betafunda\templates\alpha\node_modules\timsort\src\timsort.js132834899736023577 0
 79D:\GitHub\betafunda\templates\alpha\node_modules\object-inspect\test\lowbyte.js132834899827771263 0
 94D:\GitHub\betafunda\templates\alpha\node_modules\icss-utils\node_modules\postcss\lib\vendor.js132834899880031439 0
 54D:\GitHub\betafunda\templates\alpha\node_modules\which132834899670650872 1
@@ -394,6 +380,23 @@
 60D:\GitHub\betafunda\templates\alpha\node_modules\object-keys132834899748396520 1
 78D:\GitHub\betafunda\templates\alpha\node_modules\msgpackr-extract\package.json132834899688180866 0
 55D:\GitHub\betafunda\templates\alpha\node_modules\@babel132834899525623579 1
+89D:\GitHub\betafunda\templates\alpha\node_modules\@babel\generator\lib\node\parentheses.js132834899821754689 0
+81D:\GitHub\betafunda\templates\alpha\node_modules\svgo\plugins\removeEmptyAttrs.js132834899938687985 0
+99D:\GitHub\betafunda\templates\alpha\node_modules\postcss-modules-extract-imports\node_modules\chalk132834899690539523 1
+73D:\GitHub\betafunda\templates\alpha\node_modules\util-deprecate\README.md132834899596463175 0
+60D:\GitHub\betafunda\templates\alpha\node_modules\assert-plus132834899654989791 1
+56D:\GitHub\betafunda\templates\alpha\node_modules\deep-is132834899734714324 1
+81D:\GitHub\betafunda\templates\alpha\node_modules\msgpackr\tests\sample-large.json132834899894603128 0
+54D:\GitHub\betafunda\templates\alpha\node_modules\acorn132834899860572541 1
+73D:\GitHub\betafunda\templates\alpha\node_modules\har-schema\lib\page.json132834899796818914 0
+77D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2021\ToBigInt.js132834900122902918 0
+87D:\GitHub\betafunda\templates\alpha\node_modules\core-js\features\typed-array\values.js132834900155024600 0
+84D:\GitHub\betafunda\templates\alpha\node_modules\which-boxed-primitive\.editorconfig132834899570927744 0
+68D:\GitHub\betafunda\templates\alpha\node_modules\ripemd160\README.md132834899660276778 0
+59D:\GitHub\betafunda\templates\alpha\node_modules\extsprintf132834899723130941 1
+85D:\GitHub\betafunda\templates\alpha\node_modules\stylehacks\dist\plugins\bodyEmpty.js132834899614053150 0
+70D:\GitHub\betafunda\templates\alpha\node_modules\elliptic\lib\elliptic132834899819675866 1
+57D:\GitHub\betafunda\templates\alpha\node_modules\@nodelib132834899525553620 1
 63D:\GitHub\betafunda\templates\alpha\node_modules\big.js\big.mjs132834899652381287 0
 70D:\GitHub\betafunda\templates\alpha\node_modules\lodash\fp\isObject.js132834900071872023 0
 77D:\GitHub\betafunda\templates\alpha\node_modules\binary-extensions\index.d.ts132835165090875133 0
@@ -1152,6 +1155,7 @@
 58D:\GitHub\betafunda\templates\alpha\node_modules\encodeurl132834899656708813 1
 66D:\GitHub\betafunda\templates\alpha\node_modules\msgpackr\index.js132834899775760910 0
 90D:\GitHub\betafunda\templates\alpha\node_modules\uncss\node_modules\postcss\lib\warning.js132834899888746475 0
+58D:\GitHub\betafunda\templates\alpha\dist\index.843bee94.js132835212882403487 0
 85D:\GitHub\betafunda\templates\alpha\node_modules\ordered-binary\assets\powers-dre.png132834899738462190 0
 57D:\GitHub\betafunda\templates\alpha\node_modules\entities132834899827631328 1
 66D:\GitHub\betafunda\templates\alpha\node_modules\lodash\xorWith.js132834900125831254 0
@@ -2908,7 +2912,7 @@
 65D:\GitHub\betafunda\templates\alpha\node_modules\timsort\index.js132834899645035475 0
 66D:\GitHub\betafunda\templates\alpha\node_modules\lodash\trimEnd.js132834900122083388 0
 74D:\GitHub\betafunda\templates\alpha\node_modules\which-typed-array\.github132834899764767187 1
-62D:\GitHub\betafunda\templates\alpha\dist\index.41b293a4.js.map132835204746104089 0
+62D:\GitHub\betafunda\templates\alpha\dist\index.41b293a4.js.map132835208106257600 0
 75D:\GitHub\betafunda\templates\alpha\node_modules\which-typed-array\index.js132834899683273669 0
 73D:\GitHub\betafunda\templates\alpha\node_modules\node-forge\lib\cipher.js132834899727798271 0
 83D:\GitHub\betafunda\templates\alpha\node_modules\uri-js\dist\es5\uri.all.min.js.map132834899889026307 0
@@ -3219,9 +3223,6 @@
 71D:\GitHub\betafunda\templates\alpha\node_modules\astring\.eslintrc.json132834899686202004 0
 69D:\GitHub\betafunda\templates\alpha\node_modules\verror\lib\verror.js132834899719293122 0
 85D:\GitHub\betafunda\templates\alpha\node_modules\request\node_modules\mime-db\db.json132834899683143740 0
-89D:\GitHub\betafunda\templates\alpha\node_modules\uri-js\dist\esnext\schemes\mailto.js.map132834899867448620 0
-76D:\GitHub\betafunda\templates\alpha\node_modules\core-js\es\instance\flat.js132834900105153038 0
-75D:\GitHub\betafunda\templates\alpha\node_modules\v8-compile-cache\README.md132834899666783074 0
 85D:\GitHub\betafunda\templates\alpha\node_modules\core-js\features\object\is-frozen.js132834900127760148 0
 85D:\GitHub\betafunda\templates\alpha\node_modules\v8-compile-cache\v8-compile-cache.js132834899607187062 0
 68D:\GitHub\betafunda\templates\alpha\node_modules\terser\CHANGELOG.md132834899943974972 0
@@ -3898,7 +3899,7 @@
 73D:\GitHub\betafunda\templates\alpha\node_modules\relateurl\lib\options.js132834899687381323 0
 71D:\GitHub\betafunda\templates\alpha\node_modules\highlight.js\README.md132834900047685815 0
 71D:\GitHub\betafunda\templates\alpha\node_modules\terminal-link\index.js132834899602279860 0
-59D:\GitHub\betafunda\templates\alpha\dist\index.603968dc.css132835205863786608 0
+59D:\GitHub\betafunda\templates\alpha\dist\index.603968dc.css132835208591930585 0
 77D:\GitHub\betafunda\templates\alpha\node_modules\@parcel\packager-css\LICENSE132834899587578396 0
 79D:\GitHub\betafunda\templates\alpha\node_modules\postcss-colormin\dist\index.js132834899609635662 0
 88D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2017\IsGenericDescriptor.js132834900061477954 0
@@ -3995,6 +3996,9 @@
 75D:\GitHub\betafunda\templates\alpha\node_modules\lodash\fp\takeLastWhile.js132834900118605372 0
 63D:\GitHub\betafunda\templates\alpha\node_modules\mkdirp\LICENSE132834899587288410 0
 60D:\GitHub\betafunda\templates\alpha\node_modules\timsort\src132834899726598953 1
+103D:\GitHub\betafunda\templates\alpha\node_modules\core-js\features\object\get-own-property-descriptor.js132834900113228432 0
+74D:\GitHub\betafunda\templates\alpha\node_modules\node-forge\lib\ed25519.js132834899789613016 0
+71D:\GitHub\betafunda\templates\alpha\node_modules\timsort\src\timsort.js132834899736023577 0
 69D:\GitHub\betafunda\templates\alpha\node_modules\string-width\license132834899580982148 0
 110D:\GitHub\betafunda\templates\alpha\node_modules\css-modules-loader-core\node_modules\postcss\lib\postcss.d.ts132834899927254533 0
 82D:\GitHub\betafunda\templates\alpha\node_modules\dom-serializer\lib\index.d.ts.map132834899685342488 0
@@ -6589,9 +6593,6 @@
 79D:\GitHub\betafunda\templates\alpha\node_modules\postcss-modules\build\index.js132834899665243944 0
 82D:\GitHub\betafunda\templates\alpha\node_modules\postcss-modules\build\saveJSON.js132834899726808833 0
 69D:\GitHub\betafunda\templates\alpha\node_modules\lodash\_baseClone.js132834899885008609 0
-64D:\GitHub\betafunda\templates\alpha\node_modules\node-forge\dist132834899952390168 1
-67D:\GitHub\betafunda\templates\alpha\node_modules\core-js\stage\0.js132834899610894949 0
-96D:\GitHub\betafunda\templates\alpha\node_modules\postcss-modules\build\css-loader-core\loader.js132834899689859905 0
 96D:\GitHub\betafunda\templates\alpha\node_modules\postcss-modules\build\css-loader-core\parser.js132834899719942753 0
 87D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2015\InstanceofOperator.js132834900054551900 0
 86D:\GitHub\betafunda\templates\alpha\node_modules\postcss-minify-selectors\CHANGELOG.md132834899684013240 0
@@ -11341,7 +11342,7 @@
 93D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2019\StrictEqualityComparison.js132834900113918052 0
 92D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2019\SymbolDescriptiveString.js132834900117136212 0
 87D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2019\TestIntegrityLevel.js132834900118715307 0
-51D:\GitHub\betafunda\templates\alpha\dist\index.html132835204745994151 0
+51D:\GitHub\betafunda\templates\alpha\dist\index.html132835212882403487 0
 85D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2019\thisBooleanValue.js132834900119245003 0
 84D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2019\thisNumberValue.js132834900119784694 0
 84D:\GitHub\betafunda\templates\alpha\node_modules\es-abstract\2019\thisStringValue.js132834900120324390 0
@@ -13092,6 +13093,7 @@
 88D:\GitHub\betafunda\templates\alpha\node_modules\core-js\modules\es.typed-array.slice.js132834900064036492 0
 87D:\GitHub\betafunda\templates\alpha\node_modules\core-js\modules\es.typed-array.some.js132834900064086470 0
 99D:\GitHub\betafunda\templates\alpha\node_modules\core-js\modules\es.typed-array.to-locale-string.js132834900064326330 0
+58D:\GitHub\betafunda\templates\alpha\dist\index.8b7fb9b3.js132835208832683283 0
 92D:\GitHub\betafunda\templates\alpha\node_modules\core-js\modules\es.typed-array.to-string.js132834900064406284 0
 94D:\GitHub\betafunda\templates\alpha\node_modules\core-js\modules\es.typed-array.uint8-array.js132834900064596182 0
 93D:\GitHub\betafunda\templates\alpha\node_modules\@parcel\watcher\src\macos\FSEventsBackend.hh132834899865589675 0
@@ -13916,6 +13918,7 @@
 83D:\GitHub\betafunda\templates\alpha\node_modules\core-js\es\array-buffer\is-view.js132834900129928911 0
 81D:\GitHub\betafunda\templates\alpha\node_modules\core-js\es\array-buffer\slice.js132834900140063132 0
 71D:\GitHub\betafunda\templates\alpha\node_modules\core-js\es\array\at.js132834899953829350 0
+62D:\GitHub\betafunda\templates\alpha\dist\index.8b7fb9b3.js.map132835208832743254 0
 74D:\GitHub\betafunda\templates\alpha\node_modules\core-js\es\array\every.js132834900087013389 0
 71D:\GitHub\betafunda\templates\alpha\node_modules\array-equal\.npmignore132834899596023432 0
 79D:\GitHub\betafunda\templates\alpha\node_modules\core-js\es\array\find-index.js132834900101055382 0
@@ -15896,5 +15899,8 @@
 60D:\GitHub\betafunda\templates\alpha\node_modules\.bin\terser132834900159262187 0
 62D:\GitHub\betafunda\templates\alpha\node_modules\.bin\uuid.ps1132834900159302157 0
 63D:\GitHub\betafunda\templates\alpha\node_modules\.bin\which.ps1132834900159272172 0
-58D:\GitHub\betafunda\templates\alpha\dist\index.41b293a4.js132835204745994151 0
-63D:\GitHub\betafunda\templates\alpha\dist\index.603968dc.css.map132835205863826587 0
+58D:\GitHub\betafunda\templates\alpha\dist\index.41b293a4.js132835208106237617 0
+63D:\GitHub\betafunda\templates\alpha\dist\index.603968dc.css.map132835208592000548 0
+62D:\GitHub\betafunda\templates\alpha\dist\index.843bee94.js.map132835212882563397 0
+59D:\GitHub\betafunda\templates\alpha\dist\index.a83a1899.css132835212882403487 0
+63D:\GitHub\betafunda\templates\alpha\dist\index.a83a1899.css.map132835212882573389 0
