@@ -1,4 +1,13 @@
-import '../scss/main.scss';
-import colors from './colors';
-console.log('Hell World from main.js');
+console.log('Hell World from index.js');
+
+import mandala from './mandala';
+mandala();
+
+import colors from './colors.js';
 colors();
+
+import '../scss/main.scss';
+
+
+
+
