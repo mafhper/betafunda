@@ -1,0 +1,21 @@
+@mixin softReset($m, $p) {
+  margin: $m;
+  padding: $p;
+  box-sizing: border-box;
+}
+
+@mixin hardReset() {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  border-box: box-sizing;
+}
+
+
+* {
+  @include softReset (0, 0);
+}

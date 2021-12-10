@@ -1,0 +1,58 @@
+/* =================================================================
+ * Definições de Fontes
+ * ================================================================= 
+ * 
+ */
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+  --margin: 1.25rem;
+  --padding: 0.125rem;
+  margin: var(--margin);
+  padding: var(--padding);
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: uppercase;
+  width: max-content;
+  position: relative;
+  background-color: var(--blue);
+  &::after {
+    content: "";
+    position: absolute;
+    height: 0.25rem;
+    left: 0;
+    bottom: 0;
+    width: 100%;;
+    background-color: var(--text1);
+  }
+}
+
+h1, .h1 {
+  font-size: clamp(1.375rem, 1vw + 1rem, 2.5rem);
+}
+
+h2, .h2 {
+  font-size: clamp(1.375rem, 1vw + 1rem, 2rem);
+}
+
+
+h3, .h3 {
+  font-size: clamp(1.25rem, 1vw + 1rem, 1.75rem);
+}
+
+h4, .h4 {
+  font-size: clamp(1.25rem, 1vw + 1rem, 1.5rem);
+}
+
+
+h5, .h5 {
+  font-size: clamp(1.25rem, 1vw + 1rem, 1.375rem);
+}
+
+h6, .h6 {
+  font-size: clamp(1rem, 1vw + 1rem, 1.25rem);
+}
+
+p {
+  font-size: clamp(1rem, 1vw + 1rem, 1.125rem);
+  // margin: calc(var(--margin) * 20);
+  // padding: calc(var(--padding) * 20);
+}
