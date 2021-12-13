@@ -22,7 +22,7 @@ draw.height = cheight;
 
 let parts = 12;
 let lineWidth = 2;
-let rect = false;
+let rect = true;
 let mirror = true;
 
 let lastX = 0;
@@ -33,10 +33,10 @@ let lastDistance = 0;
 draw.lineWidth = lineWidth;
 draw.lineCap = "round";
 
-ctx.strokeStyle = "#f00";
-ctx.fillStyle = "#f00";
+ctx.strokeStyle = "#8308af";
+ctx.fillStyle = "#8308af";
 
-baseCTX.lineWidth = 2;
+baseCTX.lineWidth = 5;
 baseCTX.strokeStyle = "rgba(0, 0, 0, 0.1)";
 
 document.addEventListener('mousedown', function(e) {
